@@ -1,5 +1,19 @@
 {
-  "name": "DreamHost's Simple Theme - Fork of Sam Saffron's Simple Theme",
+  "name": "DreamHost's Simple Theme",
   "about_url": "https://meta.discourse.org/t/sams-personal-minimal-topic-list-design/23552",
-  "license_url": "https://github.com/smaffulli/discourse-simple-theme/blob/master/LICENSE.txt"
+  "license_url": "https://github.com/smaffulli/discourse-simple-theme/blob/master/LICENSE.txt",
+   "color_schemes": {
+        "DreamHost Light": {
+          "primary": "061C26",
+          "secondary": "f5f6f9",
+          "tertiary": "3068a0",
+          "quaternary": "5d6d78",
+          "header_background": "061C26",
+          "header_primary": "4F5251",
+          "highlight": "0B4C3E",
+          "danger": "B80C03",
+          "success": "46C3A7",
+          "love": "E6BAB8"
+        }
+   }
 }
