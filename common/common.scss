@@ -2,9 +2,15 @@ html {
     font-family: "Proxima Nova", sans-serif;
     font-weight: 400;
 }
+body {
+    background: #F4F6F9;
+}
 body input, body button, body select, body textarea {
     font-family: "Proxima Nova", sans-serif;
 }
 h1, h2, h3, h4, h5 {
     font-family: "Ubuntu", sans-serif;
+}
+tbody {
+    background: #fff;
 }
